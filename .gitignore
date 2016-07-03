@@ -41,3 +41,6 @@ jspm_packages
 
 # Compiled files
 public/
+
+# Typings
+typings/

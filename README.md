@@ -9,5 +9,8 @@ Inside the project folder, run:
 - npm install
 - npm run grunt
 
+From another terminal, run:
+- node ./bin/www
+
 Check localhost:
 - http://localhost:3000/

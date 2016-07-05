@@ -1,6 +1,16 @@
 {
   "name": "notes-api",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atilla8huno@github.com/atilla8huno/mean2-course-seed.git"
+  },
+  "author": "Átilla Barros <https://github.com/atilla8huno>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atilla8huno/mean2-course-seed/issues"
+  },
+  "homepage": "https://github.com/atilla8huno/mean2-course-seed#readme",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"

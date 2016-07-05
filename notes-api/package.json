@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://atilla8huno@github.com/atilla8huno/mean2-course.git"
+    "url": "git+https://atilla8huno@github.com/atilla8huno/mean2-course-seed.git"
   },
   "author": "Átilla Barros <https://github.com/atilla8huno>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atilla8huno/mean2-course/issues"
+    "url": "https://github.com/atilla8huno/mean2-course-seed/issues"
   },
-  "homepage": "https://github.com/atilla8huno/mean2-course#readme",
+  "homepage": "https://github.com/atilla8huno/mean2-course-seed#readme",
   "dependencies": {
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.3.5",

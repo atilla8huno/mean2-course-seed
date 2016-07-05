@@ -2,10 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
     moduleId: module.id,
-    selector: 'my-app',
+    selector: 'app-root',
     templateUrl: 'app.component.html',
-    directives: [AlertComponent]
+    styleUrls: ['app.component.css']
 })
 export class AppComponent {
-
+    title = 'Hello World!!';
 }
